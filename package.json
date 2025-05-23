@@ -1,0 +1,11 @@
+{
+    "name": "react-native-project-template",
+    "version": "0.0.1",
+    "description": "version 0.79.x, TypeScript, react-navigation",
+    "author": "yuminwoo <key0129mw@gmail.com>",
+    "license": "MIT",
+    "files": [
+        "template",
+        "template.config.js"
+    ]
+}
